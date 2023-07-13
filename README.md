@@ -7,7 +7,9 @@ This is the official code accompanied with the paper 'Improving embeddings for h
 Fig. 1: Fine-tuning architecture of bi-encoder for the address matching task model when using multiple negative ranking loss
 
 
-
+<br>
+<br>
+<br>
 
 
 <p align="center">
